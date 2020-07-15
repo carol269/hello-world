@@ -1,2 +1,2 @@
 # hello-world
-I'm Carol and i don't program
+I'm Carol and i don't know program
